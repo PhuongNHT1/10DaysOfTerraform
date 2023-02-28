@@ -4,7 +4,7 @@
 ### Day 1-2: Getting Started with Terraform
 - [x] Read the [official Terraform documentation](https://www.terraform.io/intro/index.html) to understand the basic concepts and workflow of Terraform
 - [x] Install Terraform on your machine: https://www.terraform.io/downloads.html
-- [ ] Learn how to configure the provider(s) you want to use: https://www.terraform.io/docs/providers/index.html
+- [x] Learn how to configure the provider(s) you want to use: https://www.terraform.io/docs/providers/index.html
 - [ ] Complete the [official Terraform getting started guide](https://learn.hashicorp.com/tutorials/terraform/beginner-build-infrastructure)
 - [ ] Project idea: Create an S3 bucket using Terraform
 
